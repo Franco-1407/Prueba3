@@ -1,5 +1,5 @@
 public class Principal {
     public static void main(String[] args) {
-        new Clientes();
+        System.out.println("Hola caracola");
     }
 }
